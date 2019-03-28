@@ -1,3 +1,7 @@
+'''
+    Author: Yasin Liu
+    Content: <Data structures> chapter 1 
+'''
 import numpy as np
 import os
 coefficient = 0.6
