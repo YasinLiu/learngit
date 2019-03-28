@@ -1,3 +1,4 @@
+import numpy as np
 coefficient = 0.6
 
 result = 0
