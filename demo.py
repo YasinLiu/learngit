@@ -4,6 +4,8 @@
 '''
 import numpy as np
 import os
+import pandas as pd 
+
 coefficient = 0.6
 
 result = 0
