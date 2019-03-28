@@ -1,4 +1,5 @@
 import numpy as np
+import os
 coefficient = 0.6
 
 result = 0
