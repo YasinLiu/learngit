@@ -1,2 +1,7 @@
-远程提交test
-测试: solve conflict
+<<<<<<< HEAD
+remote 提交 test
+test: solve conflict
+=======
+remote提交测试
+test: 冲突解决
+>>>>>>> dev
