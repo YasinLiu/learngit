@@ -1,3 +1,2 @@
-<<<<<<< HEAD
-remote 提交 test
-test: solve conflict
+remote提交测试
+test: 冲突解决
